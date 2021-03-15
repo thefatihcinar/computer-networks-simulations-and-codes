@@ -10,3 +10,8 @@
 
 ## Establishing Hub Connection
 ![establishing-hub-connection](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Establishing%20Hub%20Connection/establishing%20hub%20connection.png?raw=true)
+
+
+
+## Establishing Switch Connection
+![establish-switch](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Establishing%20Switch%20Connection/establishing%20switch%20connection.png?raw=true)
