@@ -15,3 +15,7 @@
 
 ## Establishing Switch Connection
 ![establish-switch](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Establishing%20Switch%20Connection/establishing%20switch%20connection.png?raw=true)
+
+
+## Establishing Router Connection
+![establish-router-connection](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Establish%20Router%20Connection/establish%20router%20connection.png?raw=true)
