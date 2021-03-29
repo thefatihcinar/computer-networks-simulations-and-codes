@@ -19,3 +19,9 @@
 
 ## Establishing Router Connection
 ![establish-router-connection](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Establish%20Router%20Connection/establish%20router%20connection.png?raw=true)
+
+## Setting Up Console Password for a Router
+![setting-up-console-password](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Setting%20Up%20Secret%20and%20Console%20Passwords%20for%20a%20Router/images/setting_up_console_password.png?raw=true)
+
+## Setting Up Secret Password for a Router
+![setting-up-secret-password](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Setting%20Up%20Secret%20and%20Console%20Passwords%20for%20a%20Router/images/setting_up_secret_password.png?raw=true)
