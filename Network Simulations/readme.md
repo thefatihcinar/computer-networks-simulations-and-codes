@@ -25,3 +25,6 @@
 
 ## Setting Up Secret Password for a Router
 ![setting-up-secret-password](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Setting%20Up%20Secret%20and%20Console%20Passwords%20for%20a%20Router/images/setting_up_secret_password.png?raw=true)
+
+## Connecting Two Routers
+![connecting-two-routers](https://github.com/trfatihcinar/computer-networks-simulations-and-codes/blob/main/Network%20Simulations/Connecting%20Two%20Routers/connect%20two%20routers.png?raw=true)
